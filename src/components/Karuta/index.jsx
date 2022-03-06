@@ -1,5 +1,8 @@
 import { useState } from "react";
+import { Kami } from "src/components/Karuta/Kami";
 import classes from "src/components/Karuta/karuta.module.css";
+import { KarutaListCom } from "src/components/Karuta/KarutaList";
+import { Menu } from "src/components/Karuta/menu";
 
 let displayKaruta = null;
 
@@ -24,8 +27,6 @@ export const Karuta = (props) => {
       alert("表示する百人一首を選択してください");
       return;
     }
-    // 新しいカルタ表示
-
     display();
     setKarutaList(displayKaruta);
     setGame();
@@ -76,11 +77,7 @@ export const Karuta = (props) => {
     setAnswer(null);
     setKami(null);
     setSimo(null);
-
     const num = Math.floor(Math.random() * 20);
-
-    console.log(displayKaruta);
-
     const now = displayKaruta[num];
     setAnswer(now.id);
     setKami(now.kami);
@@ -91,61 +88,12 @@ export const Karuta = (props) => {
 
   return (
     <div>
-      <header className="h-28 flex gap-5 items-center justify-center">
-        <div>
-          <button onClick={start}>スタート</button>
-        </div>
-
-        <div className="flex gap-5" onChange={onChangeValue}>
-          <div>
-            <input type="radio" name="karuta" id="1" value="20" />
-            <label htmlFor="1">No.1 ~ No.20</label>
-          </div>
-          <div>
-            <input type="radio" name="karuta" id="2" value="40" />
-            <label htmlFor="2">No.21 ~ No.40</label>
-          </div>
-          <div>
-            <input type="radio" name="karuta" id="3" value="60" />
-            <label htmlFor="3">No.41 ~ No.60</label>
-          </div>
-          <div>
-            <input type="radio" name="karuta" id="4" value="80" />
-            <label htmlFor="4">No.61 ~ No.80</label>
-          </div>
-          <div>
-            <input type="radio" name="karuta" id="5" value="100" />
-            <label htmlFor="5">No.81 ~ No.100</label>
-          </div>
-        </div>
-      </header>
-
+      <Menu start={start} onChangeValue={onChangeValue} />
       <div className="flex">
         <div className="flex gap-4 w-3/4 flex-wrap">
-          {karutaList
-            ? karutaList.map((karuta, index) => {
-                return (
-                  <div
-                    key={index}
-                    className="w-44 h-64 border-8 border-green-700"
-                    onClick={(e) => check(e.target)}
-                  >
-                    <div id={karuta.id} className={classes.text}>
-                      {karuta.simo_kana}
-                    </div>
-                  </div>
-                );
-              })
-            : null}
+          <KarutaListCom karutaList={karutaList} check={check} />
         </div>
-        {kami ? (
-          <div className={classes.yomiArea}>
-            <div className={classes.yomi}>
-              <div>{kami ? kami : null}</div>
-              <div>{simo ? simo : null}</div>
-            </div>
-          </div>
-        ) : null}
+        <Kami kami={kami} simo={simo} />
       </div>
     </div>
   );
