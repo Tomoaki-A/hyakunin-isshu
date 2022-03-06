@@ -6,7 +6,8 @@ html {
   font-family: "Noto Serif JP", serif;
 }
 
-html {
+.tatami {
+  min-height: 100vh;
   background:
   linear-gradient(
     0deg,
@@ -28,3 +29,8 @@ html {
   );
 background-size: 4px 20px;
 }
+
+.modal-bg{
+  background-color: rgba(0,0,0,0.3);
+}
+

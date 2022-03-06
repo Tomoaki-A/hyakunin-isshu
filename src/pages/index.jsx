@@ -6,7 +6,7 @@ export default function Home() {
   const karuta = karutaList.karuta;
 
   return (
-    <div>
+    <div className="tatami">
       <Head>
         <title>Home</title>
       </Head>
