@@ -3,20 +3,19 @@ import classes from "src/components/Karuta/karuta.module.css";
 
 export const Karuta = (props) => {
   let karuta = props.karuta;
+  let displayKaruta = null;
   const [displayKarutaNum, setDisplayKarutaNum] = useState(null);
   const [answer, setAnswer] = useState(null);
   const [kami, setKami] = useState(null);
   const [simo, setSimo] = useState(null);
   const [karutaList, setKarutaList] = useState(null);
-  let displayKaruta = null;
 
-  //空白を削除
-  const removeBlank = () => {
+  //カルタの空白を削除
+  (() => {
     karuta.map((karuta) => {
       karuta.simo_kana = karuta.simo_kana.replace(/\s+/g, "");
     });
-  };
-  removeBlank();
+  })();
 
   // スタート
   const start = () => {
@@ -25,6 +24,7 @@ export const Karuta = (props) => {
       return;
     }
     // 新しいカルタ表示
+
     display();
     setKarutaList(displayKaruta);
     setGame();
@@ -71,9 +71,11 @@ export const Karuta = (props) => {
 
   // ゲームをセット
   const setGame = () => {
+    // 初期化
     setAnswer(null);
     setKami(null);
     setSimo(null);
+
     const num = Math.floor(Math.random() * 20);
 
     if (displayKaruta) {
