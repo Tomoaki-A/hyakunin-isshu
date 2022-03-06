@@ -9,6 +9,7 @@ export default function Home() {
     <div className="tatami">
       <Head>
         <title>百人一首ゲーム</title>
+        <link rel="icon" href="favicon.ico"></link>
       </Head>
       <div>
        <Karuta karuta={karuta}/>
