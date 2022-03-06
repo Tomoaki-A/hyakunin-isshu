@@ -1,9 +1,10 @@
 import { useState } from "react";
 import classes from "src/components/Karuta/karuta.module.css";
 
+let displayKaruta = null;
+
 export const Karuta = (props) => {
-  let karuta = props.karuta;
-  let displayKaruta = null;
+  const [karuta, setKaruta] = useState(props.karuta);
   const [displayKarutaNum, setDisplayKarutaNum] = useState(null);
   const [answer, setAnswer] = useState(null);
   const [kami, setKami] = useState(null);
@@ -78,21 +79,14 @@ export const Karuta = (props) => {
 
     const num = Math.floor(Math.random() * 20);
 
-    if (displayKaruta) {
-      const now = displayKaruta[num];
-      setAnswer(now.id);
-      setKami(now.kami);
-      setTimeout(() => {
-        setSimo(now.simo);
-      }, 3000);
-    } else {
-      const now = karutaList[num];
-      setAnswer(now.id);
-      setKami(now.kami);
-      setTimeout(() => {
-        setSimo(now.simo);
-      }, 3000);
-    }
+    console.log(displayKaruta);
+
+    const now = displayKaruta[num];
+    setAnswer(now.id);
+    setKami(now.kami);
+    setTimeout(() => {
+      setSimo(now.simo);
+    }, 3000);
   };
 
   return (
@@ -105,23 +99,23 @@ export const Karuta = (props) => {
         <div className="flex gap-5" onChange={onChangeValue}>
           <div>
             <input type="radio" name="karuta" id="1" value="20" />
-            <label htmlFor="1">1 ~ 20</label>
+            <label htmlFor="1">No.1 ~ No.20</label>
           </div>
           <div>
             <input type="radio" name="karuta" id="2" value="40" />
-            <label htmlFor="2">21 ~ 40</label>
+            <label htmlFor="2">No.21 ~ No.40</label>
           </div>
           <div>
             <input type="radio" name="karuta" id="3" value="60" />
-            <label htmlFor="3">41 ~ 60</label>
+            <label htmlFor="3">No.41 ~ No.60</label>
           </div>
           <div>
             <input type="radio" name="karuta" id="4" value="80" />
-            <label htmlFor="4">61 ~ 80</label>
+            <label htmlFor="4">No.61 ~ No.80</label>
           </div>
           <div>
             <input type="radio" name="karuta" id="5" value="100" />
-            <label htmlFor="5">81 ~ 100</label>
+            <label htmlFor="5">No.81 ~ No.100</label>
           </div>
         </div>
       </header>
@@ -144,14 +138,14 @@ export const Karuta = (props) => {
               })
             : null}
         </div>
-        <div>
-          {kami ? (
+        {kami ? (
+          <div className={classes.yomiArea}>
             <div className={classes.yomi}>
               <div>{kami ? kami : null}</div>
               <div>{simo ? simo : null}</div>
             </div>
-          ) : null}
-        </div>
+          </div>
+        ) : null}
       </div>
     </div>
   );
