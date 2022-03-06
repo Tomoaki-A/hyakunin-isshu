@@ -1,6 +1,6 @@
 export const Menu = (props) => {
   return (
-    <header className="h-28 flex gap-5 items-center justify-center">
+    <header className="h-28 flex gap-5 items-center justify-center border-8 border-green-700 bg-white">
       <div className="bg-green-400 hover:bg-green-300 p-2 rounded-lg transition ">
         <button onClick={props.start}>スタート</button>
       </div>

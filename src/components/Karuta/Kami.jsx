@@ -9,7 +9,7 @@ export const Kami = (props) => {
         <div className={classes.yomiArea}>
           <div className={classes.yomi}>
             <div>{kami ? kami : null}</div>
-            <div>{simo ? simo : null}</div>
+            <div className="pt-44">{simo ? simo : null}</div>
           </div>
         </div>
       ) : null}

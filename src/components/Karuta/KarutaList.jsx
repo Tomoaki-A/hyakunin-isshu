@@ -10,7 +10,7 @@ export const KarutaListCom = (props) => {
             return (
               <div
                 key={index}
-                className="w-44 h-64 border-8 border-green-700"
+                className="w-44 h-64 border-8 border-green-700 bg-white"
                 onClick={(e) => props.check(e.target)}
               >
                 <div id={karuta.id} className={classes.text}>
