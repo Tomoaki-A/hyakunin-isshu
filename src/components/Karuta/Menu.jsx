@@ -1,7 +1,7 @@
 export const Menu = (props) => {
   return (
     <header className="h-28 flex gap-5 items-center justify-center">
-      <div>
+      <div className="bg-green-400 hover:bg-green-300 p-2 rounded-lg transition ">
         <button onClick={props.start}>スタート</button>
       </div>
 
@@ -26,6 +26,7 @@ export const Menu = (props) => {
           <input type="radio" name="karuta" id="5" value="100" />
           <label htmlFor="5">No.81 ~ No.100</label>
         </div>
+        
       </div>
     </header>
   );
