@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Kami } from "src/components/Karuta/Kami";
 import classes from "src/components/Karuta/karuta.module.css";
 import { KarutaListCom } from "src/components/Karuta/KarutaList";
@@ -27,10 +27,16 @@ export const Karuta = (props) => {
       alert("表示する百人一首を選択してください");
       return;
     }
-    display();
-    setKarutaList(displayKaruta);
     setGame();
   };
+
+  // ラジオボタンの選択が更新されるたびにカルタ表示
+  useEffect(() => {
+    display();
+    setKarutaList(displayKaruta);
+    setKami(null);
+    setSimo(null);
+  }, [displayKarutaNum]);
 
   // 正誤チェック
   const check = (target) => {
