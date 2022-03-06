@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="tatami">
       <Head>
-        <title>Home</title>
+        <title>百人一首ゲーム</title>
       </Head>
       <div>
        <Karuta karuta={karuta}/>
