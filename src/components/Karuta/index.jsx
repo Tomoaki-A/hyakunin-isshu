@@ -1,8 +1,7 @@
 import { useEffect, useState } from "react";
 import { Kami } from "src/components/Karuta/Kami";
-import classes from "src/components/Karuta/karuta.module.css";
 import { KarutaListCom } from "src/components/Karuta/KarutaList";
-import { Menu } from "src/components/Karuta/menu";
+import { Menu } from "src/components/Karuta/Menu";
 
 let displayKaruta = null;
 
