@@ -7,13 +7,17 @@
   cursor: pointer;
 }
 .yomi {
-  padding: 20px;
-  height: 450px;
-  min-width: 72px;
   -ms-writing-mode: tb-rl;
   writing-mode: vertical-rl;
   font-size: 24px;
-  margin: 0 auto;
+  /* margin: 0 auto; */
+  margin-left: auto;
+}
+
+.yomiArea {
+  padding: 20px;
+  height: 500px;
+  width: 125px;
   user-select: none;
   border: solid 10px gold;
 }
