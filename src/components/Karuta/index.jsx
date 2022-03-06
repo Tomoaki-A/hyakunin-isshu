@@ -36,10 +36,14 @@ export const Karuta = (props) => {
     setKarutaList(displayKaruta);
     setKami(null);
     setSimo(null);
+    setAnswer(null);
   }, [displayKarutaNum]);
 
   // 正誤チェック
   const check = (target) => {
+    if (!answer) {
+      return;
+    }
     const clicked = target.id;
     const id = Number(clicked);
     if (id === answer) {
@@ -95,8 +99,8 @@ export const Karuta = (props) => {
   return (
     <div>
       <Menu start={start} onChangeValue={onChangeValue} />
-      <div className="flex">
-        <div className="flex gap-4 w-3/4 flex-wrap">
+      <div className="flex gap-10 tatami min-h-[screen-7rem]">
+        <div className="flex gap-4 w-3/4 flex-wrap justify-center p-8">
           <KarutaListCom karutaList={karutaList} check={check} />
         </div>
         <Kami kami={kami} simo={simo} />
