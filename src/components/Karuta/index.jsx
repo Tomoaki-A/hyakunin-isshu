@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Kami } from "src/components/Karuta/Kami";
 import { KarutaListCom } from "src/components/Karuta/KarutaList";
 import { Menu } from "src/components/Karuta/Menu";
+import { Modal } from "src/components/Modal";
 
 let displayKaruta = null;
 
@@ -12,6 +13,8 @@ export const Karuta = (props) => {
   const [kami, setKami] = useState(null);
   const [simo, setSimo] = useState(null);
   const [karutaList, setKarutaList] = useState(null);
+  const [isShow, setIsShow] = useState(false);
+  const [answerKaruta, setAnswerKaruta] = useState(null);
 
   //カルタの空白を削除
   (() => {
@@ -46,8 +49,7 @@ export const Karuta = (props) => {
     const clicked = target.id;
     const id = Number(clicked);
     if (id === answer) {
-      alert("正解");
-      setGame();
+      setIsShow(true);
     } else {
       alert("不正解");
     }
@@ -89,21 +91,30 @@ export const Karuta = (props) => {
     const num = Math.floor(Math.random() * 20);
     const now = displayKaruta[num];
     setAnswer(now.id);
+
     setKami(now.kami);
+
+    setAnswerKaruta(now);
     setTimeout(() => {
       setSimo(now.simo);
     }, 3000);
   };
 
   return (
-    <div>
+    <div className="relative">
       <Menu start={start} onChangeValue={onChangeValue} />
-      <div className="flex gap-10 tatami min-h-[screen-7rem]">
+      <div className="flex gap-10">
         <div className="flex gap-4 w-3/4 flex-wrap justify-center p-8">
           <KarutaListCom karutaList={karutaList} check={check} />
         </div>
         <Kami kami={kami} simo={simo} />
       </div>
+      <Modal
+        isShow={isShow}
+        setGame={setGame}
+        setIsShow={setIsShow}
+        answerKaruta={answerKaruta}
+      />
     </div>
   );
 };
