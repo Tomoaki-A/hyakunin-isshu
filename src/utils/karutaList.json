@@ -2,1402 +2,1004 @@
   "karuta": [
     {
       "id": 1,
-
       "kami": "秋の田の かりほの庵の 苫をあらみ",
-
       "simo": "我が衣手は 露にぬれつつ",
-
       "kami_kana": "あきのたの かりほのいほの とまをあらみ",
-
       "simo_kana": "わがころもでは つゆにぬれつつ",
-
-      "sakusya": "天智天皇"
+      "sakusya": "天智天皇",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/04/Hyakuninisshu_001.jpg",
+      "commentary": "秋の田の側につくった仮小屋に泊まってみると、屋根をふいた苫の目があらいので、その隙間から忍びこむ冷たい夜露が、私の着物の袖をすっかりと濡らしてしまっているなぁ。"
     },
-
     {
       "id": 2,
-
       "kami": "春過ぎて 夏来にけらし 白妙の",
-
       "simo": "衣ほすてふ 天の香具山",
-
       "kami_kana": "はるすぎて なつきにけらし しろたへの",
-
       "simo_kana": "ころもほすてふ あまのかぐやま",
-
-      "sakusya": "持統天皇"
+      "sakusya": "持統天皇",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/95/Hyakuninisshu_002.jpg",
+      "commentary": "もう春は過ぎ去り、いつのまにか夏が来てしまったようですね。香具山には、あんなにたくさんのまっ白な着物が干されているのですから。"
     },
-
     {
       "id": 3,
-
       "kami": "あしびきの 山鳥の尾の しだり尾の",
-
       "simo": "ながながし夜を ひとりかも寝む",
-
       "kami_kana": "あしびきの やまどりのをの しだりをの",
-
       "simo_kana": "ながながしよを ひとりかもねむ",
-
-      "sakusya": "柿本人麻呂"
+      "sakusya": "柿本人麻呂",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Hyakuninisshu_003.jpg",
+      "commentary": "夜になると、雄と雌が離れて寝るという山鳥だが、その山鳥の長く垂れ下がった尾のように、こんなにも長い長い夜を、私もまた、(あなたと離れて)ひとり寂しく寝るのだろうか。"
     },
-
     {
       "id": 4,
-
       "kami": "田子の浦に うちいでてみれば 白妙の",
-
       "simo": "富士の高嶺に 雪は降りつつ",
-
       "kami_kana": "たごのうらに うちいでてみれば しろたへの",
-
       "simo_kana": "ふじのたかねに ゆきはふりつつ",
-
-      "sakusya": "山部赤人"
+      "sakusya": "山部赤人",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/3/37/Hyakuninisshu_004.jpg",
+      "commentary": "田子の浦の海岸に出てみると､雪をかぶったまっ白な富士の山が見事に見えるが、その高い峰には、今もしきりに雪がふり続けている。(あぁ、なんと素晴らしい景色なのだろう)"
     },
-
     {
       "id": 5,
-
       "kami": "奥山に もみぢふみわけ なく鹿の",
-
       "simo": "声聞く時ぞ 秋はかなしき",
-
       "kami_kana": "おくやまに もみぢふみわけ なくしかの",
-
       "simo_kana": "こゑきくときぞ あきはかなしき",
-
-      "sakusya": "猿丸太夫"
+      "sakusya": "猿丸太夫",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/c/cd/Hyakuninisshu_005.jpg",
+      "commentary": "奥深い山の中で､(一面に散りしいた)紅葉をふみわけて鳴いている鹿の声を聞くときは､この秋の寂しさが、いっそう悲しく感じられることだ。"
     },
-
     {
       "id": 6,
-
       "kami": "かささぎの 渡せる橋に おく霜の",
-
       "simo": "白きをみれば 夜ぞふけにける",
-
       "kami_kana": "かささぎの わたせるはしに おくしもの",
-
       "simo_kana": "しろきをみれば よぞふけにける",
-
-      "sakusya": "中納言家持"
+      "sakusya": "中納言家持",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Hyakuninisshu_006.jpg",
+      "commentary": "かささぎが渡したという天上の橋のように見える宮中の階段であるが、その上に降りた真っ白い霜を見ると､夜も随分と更けたのだなあ｡"
     },
-
     {
       "id": 7,
-
       "kami": "天の原 ふりさけみれば 春日なる",
-
       "simo": "三笠の山に いでし月かも",
-
       "kami_kana": "あまのはら ふりさけみれば かすがなる",
-
       "simo_kana": "みかさのやまに いでしつきかも",
-
-      "sakusya": "阿倍仲麻呂"
+      "sakusya": "阿倍仲麻呂",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/4/46/Hyakuninisshu_007.jpg",
+      "commentary": "大空を振り仰いで眺めると､美しい月が出ているが、あの月はきっと故郷である春日の三笠の山に出た月と同じ月だろう。(ああ､本当に恋しいことだなあ)"
     },
-
     {
       "id": 8,
-
       "kami": "わが庵は 都のたつみ しかぞすむ",
-
       "simo": "世をうぢ山と 人はいふなり",
-
       "kami_kana": "わがいほは みやこのたつみ しかぞすむ",
-
       "simo_kana": "よをうぢやまと ひとはいふなり",
-
-      "sakusya": "喜撰法師"
+      "sakusya": "喜撰法師",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/d/d0/Hyakuninisshu_008.jpg",
+      "commentary": "私の草庵は都の東南にあって、そこで静かにくらしている。しかし世間の人たちは(私が世の中から隠れ)この宇治の山に住んでいるのだと噂しているようだ。"
     },
-
     {
       "id": 9,
-
       "kami": "花の色は うつりにけりな いたづらに",
-
       "simo": "わが身よにふる ながめせしまに",
-
       "kami_kana": "はなのいろは うつりにけりな いたづらに",
-
       "simo_kana": "わがみよにふる ながめせしまに",
-
-      "sakusya": "小野小町"
+      "sakusya": "小野小町",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/94/Hyakuninisshu_009.jpg",
+      "commentary": "花の色もすっかり色あせてしまいました。降る長雨をぼんやりと眺めいるうちに。(わたしの美しさも、その花の色のように、こんなにも褪せてしまいました)"
     },
-
     {
       "id": 10,
-
       "kami": "これやこの 行くも帰るも わかれては",
-
       "simo": "しるもしらぬも 逢坂の関",
-
       "kami_kana": "これやこの ゆくもかへるも わかれては",
-
       "simo_kana": "しるもしらぬも あふさかのせき",
-
-      "sakusya": "蝉丸"
+      "sakusya": "蝉丸",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/2/29/Hyakuninisshu_010.jpg",
+      "commentary": "これがあの有名な、(東国へ)下って行く人も都へ帰る人も、ここで別れてはまたここで会い、知っている人も知らない人も、またここで出会うという逢坂の関なのだなあ｡"
     },
-
     {
       "id": 11,
-
       "kami": "わたの原 八十島かけて こぎいでぬと",
-
       "simo": "人にはつげよ あまのつり舟",
-
       "kami_kana": "わたのはら やそしまかけて こぎいでぬと",
-
       "simo_kana": "ひとにはつげよ あまのつりぶね",
-
-      "sakusya": "参議篁"
+      "sakusya": "参議篁",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/7/7e/Hyakuninisshu_011.jpg",
+      "commentary": "(篁は)はるか大海原を多くの島々目指して漕ぎ出して行ったと､都にいる親しい人に告げてくれないか、そこの釣舟の漁夫よ｡"
     },
-
     {
       "id": 12,
-
       "kami": "天つ風 雲のかよひ路 吹きとぢよ",
-
       "simo": "をとめの姿 しばしとどめむ",
-
       "kami_kana": "あまつかぜ くものかよひぢ ふきとぢよ",
-
       "simo_kana": "をとめのすがた しばしとどめむ",
-
-      "sakusya": "僧正遍昭"
+      "sakusya": "僧正遍昭",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Hyakuninisshu_012.jpg",
+      "commentary": "空吹く風よ､雲の中にあるという(天に通じる)道を吹いて閉じてくれないか。(天に帰っていく)乙女たちの姿を、しばらくここに引き留めておきたいから｡"
     },
-
     {
       "id": 13,
-
       "kami": "つくばねの 峰よりおつる みなの川",
-
       "simo": "恋ぞつもりて 淵となりぬる",
-
       "kami_kana": "つくばねの みねよりおつる みなのがは",
-
       "simo_kana": "こひぞつもりて ふちとなりぬる",
-
-      "sakusya": "陽成院"
+      "sakusya": "陽成院",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/8/85/Hyakuninisshu_013.jpg",
+      "commentary": "筑波山の峯から流れてくるみなの川も、(最初は小さなせせらぎほどだが)やがては深い淵をつくるように､私の恋もしだいに積もり､今では淵のように深いものとなってしまった｡"
     },
-
     {
       "id": 14,
-
       "kami": "みちのくの しのぶもぢずり 誰ゆゑに",
-
       "simo": "みだれそめにし 我ならなくに",
-
       "kami_kana": "みちのくの しのぶもぢずり たれゆゑに",
-
       "simo_kana": "みだれそめにし われならなくに",
-
-      "sakusya": "河原左大臣"
+      "sakusya": "河原左大臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/94/Hyakuninisshu_014.jpg",
+      "commentary": "奥州のしのぶもじずりの乱れ模様のように､私の心も(恋のために)乱れていますが､いったい誰のためにこのように思い乱れているのでしょう｡ (きっとあなたの所為に違いありません)"
     },
-
     {
       "id": 15,
-
       "kami": "君がため 春の野に出でて 若菜つむ",
-
       "simo": "わが衣手に 雪はふりつつ",
-
       "kami_kana": "きみがため はるののにいでて わかなつむ",
-
       "simo_kana": "わがころもでに ゆきはふりつつ",
-
-      "sakusya": "光孝天皇"
+      "sakusya": "光孝天皇",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/05/Hyakuninisshu_015.jpg",
+      "commentary": "あなたのために春の野に出て若菜を摘んでいましたが､春だというのにちらちらと雪が降ってきて、私の着物の袖にも雪が降りかかっています｡　(それでも、あなたのことを思いながら、こうして若菜を摘んでいるのです)"
     },
-
     {
       "id": 16,
-
       "kami": "立ちわかれ いなばの山の 峰に生ふる",
-
       "simo": "まつとし聞かば いまかへりこむ",
-
       "kami_kana": "たちわかれ いなばのやまの みねにおふる",
-
       "simo_kana": "まつとしきかば いまかへりこむ",
-
-      "sakusya": "中納言行平"
+      "sakusya": "中納言行平",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/8/8b/Hyakuninisshu_016.jpg",
+      "commentary": "あなたと別れて(因幡の国へ)行くけれども､稲葉の山の峰に生えている松のように､あなたが待っていると聞いたなら､すぐにも都に帰ってまいりましょう｡"
     },
-
     {
       "id": 17,
-
       "kami": "ちはやぶる 神代もきかず 竜田川",
-
       "simo": "からくれなゐに 水くくるとは",
-
       "kami_kana": "ちはやぶる かみよもきかず たつたがは",
-
       "simo_kana": "からくれなゐに みづくくるとは",
-
-      "sakusya": "在原業平朝臣"
+      "sakusya": "在原業平朝臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Hyakuninisshu_017.jpg",
+      "commentary": "(川面に紅葉が流れていますが)神代の時代にさえこんなことは聞いたことがありません。竜田川一面に紅葉が散りしいて、流れる水を鮮やかな紅の色に染めあげるなどということは。"
     },
-
     {
       "id": 18,
-
       "kami": "住の江の 岸による波 よるさへや",
-
       "simo": "夢のかよひ路 人目よくらむ",
-
       "kami_kana": "すみのえの きしによるなみ よるさへや",
-
       "simo_kana": "ゆめのかよひぢ ひとめよくらむ",
-
-      "sakusya": "藤原敏行朝臣"
+      "sakusya": "藤原敏行朝臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/c/c6/Hyakuninisshu_018.jpg",
+      "commentary": "住の江の岸に打ち寄せる波のように (いつもあなたに会いたいのだが)、 どうして夜の夢の中でさえ､あなたは人目をはばかって会ってはくれないのだろう。"
     },
-
     {
       "id": 19,
-
       "kami": "難波潟 みじかき蘆の ふしのまも",
-
       "simo": "あはでこの世を すぐしてよとや",
-
       "kami_kana": "なにはがた みじかきあしの ふしのまも",
-
       "simo_kana": "あはでこのよを すぐしてよとや",
-
-      "sakusya": "伊勢"
+      "sakusya": "伊勢",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/8/85/Hyakuninisshu_019.jpg",
+      "commentary": "難波潟の入り江に茂っている芦の、短い節と節の間のような短い時間でさえお会いしたいのに、それも叶わず、この世を過していけとおっしゃるのでしょうか。"
     },
-
     {
       "id": 20,
-
       "kami": "わびぬれば いまはたおなじ 難波なる",
-
       "simo": "身をつくしても あはむとぞ思ふ",
-
       "kami_kana": "わびぬれば いまはたおなじ なにはなる",
-
       "simo_kana": "みをつくしても あはむとぞおもふ",
-
-      "sakusya": "元良親王"
+      "sakusya": "元良親王",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/97/Hyakuninisshu_020.jpg",
+      "commentary": "あなたにお逢いできなくて) このように思いわびて暮らしていると､今はもう身を捨てたのと同じことです｡いっそのこと、あの難波のみおつくしのように､この身を捨ててもお会いしたいと思っています｡"
     },
-
     {
       "id": 21,
-
       "kami": "今こむと いひしばかりに 長月の",
-
       "simo": "有明の月を まちいでつるかな",
-
       "kami_kana": "いまこむと いひしばかりに ながつきの",
-
       "simo_kana": "ありあけのつきを まちいでつるかな",
-
-      "sakusya": "素性法師"
+      "sakusya": "素性法師",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/3/3b/Hyakuninisshu_021.jpg",
+      "commentary": "「今すぐに行きましょう」とあなたがおっしゃったので、(その言葉を信じて) 九月の長い夜を待っていましたが、とうとう有明の月が出る頃を迎えてしまいました。"
     },
-
     {
       "id": 22,
-
       "kami": "吹くからに 秋の草木の しをるれば",
-
       "simo": "むべ山風を 嵐といふらむ",
-
       "kami_kana": "ふくからに あきのくさきの しをるれば",
-
       "simo_kana": "むべやまかぜを あらしといふらむ",
-
-      "sakusya": "文屋康秀"
+      "sakusya": "文屋康秀",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/1/11/Hyakuninisshu_022.jpg",
+      "commentary": "山風が吹きおろしてくると、たちまち秋の草や木が萎れてしまうので､きっと山風のことを「嵐(荒らし)」いうのだろう｡"
     },
-
     {
       "id": 23,
-
       "kami": "月みれば ちぢにものこそ かなしけれ",
-
       "simo": "わが身一つの 秋にはあらねど",
-
       "kami_kana": "つきみれば ちぢにものこそ かなしけれ",
-
       "simo_kana": "わがみひとつの あきにはあらねど",
-
-      "sakusya": "大江千里"
+      "sakusya": "大江千里",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/e/e4/Hyakuninisshu_023.jpg",
+      "commentary": "秋の月を眺めてていると､様々と思い起こされ物悲しいことです｡秋はわたしひとりだけにやって来たのではないのですが。"
     },
-
     {
       "id": 24,
-
       "kami": "このたびは ぬさもとりあへず 手向山",
-
       "simo": "もみぢのにしき 神のまにまに",
-
       "kami_kana": "このたびは ぬさもとりあへず たむけやま",
-
       "simo_kana": "もみぢのにしき かみのまにまに",
-
-      "sakusya": "菅家"
+      "sakusya": "菅家",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/01/Hyakuninisshu_024.jpg",
+      "commentary": "今度の旅は急いで発ちましたので、捧げるぬさを用意することも出来ませんでした。しかし、この手向山の美しい紅葉をぬさとして捧げますので、どうかお心のままにお受け取りください。"
     },
-
     {
       "id": 25,
-
       "kami": "名にし負はば 逢坂山の さねかづら",
-
       "simo": "人にしられで 来るよしもがな",
-
       "kami_kana": "なにしおはば あふさかやまの さねかづら",
-
       "simo_kana": "ひとにしられで くるよしもがな",
-
-      "sakusya": "三条右大臣"
+      "sakusya": "三条右大臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/d/d2/Hyakuninisshu_025.jpg",
+      "commentary": "逢う」という名の逢坂山､「さ寝」という名のさねかずらが､その名に違わぬのであれば､逢坂山のさねかずらを手繰り寄せるように､あなたのもとにいく方法を知りたいものです。"
     },
-
     {
       "id": 26,
-
       "kami": "小倉山 峰のもみぢ葉 心あらば",
-
       "simo": "いまひとたびの みゆきまたなむ",
-
       "kami_kana": "をぐらやま みねのもみぢば こころあらば",
-
       "simo_kana": "いまひとたびの みゆきまたなむ",
-
-      "sakusya": "貞信公"
+      "sakusya": "貞信公",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Hyakuninisshu_026.jpg",
+      "commentary": "小倉山の峰の美しい紅葉の葉よ､もしお前に哀れむ心があるならば､散るのを急がず、もう一度の行幸をお待ち申していてくれないか｡"
     },
-
     {
       "id": 27,
-
       "kami": "みかの原 わきて流るる いづみ川",
-
       "simo": "いつみきとてか 恋しかるらむ",
-
       "kami_kana": "みかのはら わきてながるる いづみがは",
-
       "simo_kana": "いつみきとてか こひしかるらむ",
-
-      "sakusya": "中納言兼輔"
+      "sakusya": "中納言兼輔",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/7/7b/Hyakuninisshu_027.jpg",
+      "commentary": "みかの原を湧き出て流れる泉川よ､(その｢いつ｣という言葉ではないが) その人をいつ見たといっては、恋しく思ってしまう。本当は一度たりとも見たこともないのに。"
     },
-
     {
       "id": 28,
-
       "kami": "山里は 冬ぞさびしさ まさりける",
-
       "simo": "人目も草も かれぬと思へば",
-
       "kami_kana": "やまざとは ふゆぞさびしさ まさりける",
-
       "simo_kana": "ひとめもくさも かれぬとおもへば",
-
-      "sakusya": "源宗行朝臣"
+      "sakusya": "源宗行朝臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/a/af/Hyakuninisshu_028.jpg",
+      "commentary": "山里はいつの季節でも寂しいが、冬はとりわけ寂しく感じられる｡尋ねてくれる人も途絶え､慰めの草も枯れてしまうのだと思うと｡"
     },
-
     {
       "id": 29,
-
       "kami": "心当てに 折らばや折らむ 初霜の",
-
       "simo": "おきまどはせる 白菊の花",
-
       "kami_kana": "こころあてに をらばやをらむ はつしもの",
-
       "simo_kana": "おきまどはせる しらぎくのはな",
-
-      "sakusya": "凡河内躬恒"
+      "sakusya": "凡河内躬恒",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/c/cf/Hyakuninisshu_029.jpg",
+      "commentary": "無造作に折ろうとすれば、果たして折れるだろうか。一面に降りた初霜の白さに、いずれが霜か白菊の花か見分けもつかないほどなのに。"
     },
-
     {
       "id": 30,
-
       "kami": "有明の つれなく見えし 別れより",
-
       "simo": "あかつきばかり うきものはなし",
-
       "kami_kana": "ありあけの つれなくみえし わかれより",
-
       "simo_kana": "あかつきばかり うきものはなし",
-
-      "sakusya": "壬生忠岑"
+      "sakusya": "壬生忠岑",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/8/8a/Hyakuninisshu_030.jpg",
+      "commentary": "あなたと別れたあの時も、有明の月が残っていましたが、(別れの時のあなたはその有明の月のようにつれないものでしたが) あなたと別れてからというもの、今でも有明の月がかかる夜明けほどつらいものはありません。"
     },
-
     {
       "id": 31,
-
       "kami": "朝ぼらけ 有明の月と 見るまでに",
-
       "simo": "吉野の里に 降れる白雪",
-
       "kami_kana": "あさぼらけ ありあけのつきと みるまでに",
-
       "simo_kana": "よしののさとに ふれるしらゆき",
-
-      "sakusya": "坂上是則"
+      "sakusya": "坂上是則",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/c/ce/Hyakuninisshu_031.jpg",
+      "commentary": "夜が明ける頃あたりを見てみると､まるで有明の月が照らしているのかと思うほどに、吉野の里には白雪が降り積もっているではないか。"
     },
-
     {
       "id": 32,
-
       "kami": "山川に 風のかけたる しがらみは",
-
       "simo": "ながれもあへぬ もみぢなりけり",
-
       "kami_kana": "やまがはに かぜのかけたる しがらみは",
-
       "simo_kana": "ながれもあへぬ もみぢなりけり",
-
-      "sakusya": "春道列樹"
+      "sakusya": "春道列樹",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/a/a6/Hyakuninisshu_032.jpg",
+      "commentary": "山あいの谷川に、風が架け渡したなんとも美しい柵があったのだが、それは (吹き散らされたままに) 流れきれずにいる紅葉であったではないか｡"
     },
-
     {
       "id": 33,
-
       "kami": "久方の 光のどけき 春の日に",
-
       "simo": "しづ心なく 花の散るらむ",
-
       "kami_kana": "ひさかたの ひかりのどけき はるのひに",
-
       "simo_kana": "しづこころなく はなのちるらむ",
-
-      "sakusya": "紀友則"
+      "sakusya": "紀友則",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/e/ef/Hyakuninisshu_033.jpg",
+      "commentary": "こんなにも日の光が降りそそいでいるのどかな春の日であるのに､どうして落着いた心もなく､花は散っていくのだろうか。"
     },
-
     {
       "id": 34,
-
       "kami": "誰をかも しる人にせむ 高砂の",
-
       "simo": "松も昔の 友ならなくに",
-
       "kami_kana": "たれをかも しるひとにせむ たかさごの",
-
       "simo_kana": "まつもむかしの ともならなくに",
-
-      "sakusya": "藤原興風"
+      "sakusya": "藤原興風",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Hyakuninisshu_034.jpg",
+      "commentary": "(友達は次々と亡くなってしまったが) これから誰を友とすればいいのだろう｡馴染みあるこの高砂の松でさえ､昔からの友ではないのだから｡"
     },
-
     {
       "id": 35,
-
       "kami": "人はいさ 心も知らず ふるさとは",
-
       "simo": "花ぞ昔の 香に匂ひける",
-
       "kami_kana": "ひとはいさ こころもしらず ふるさとは",
-
       "simo_kana": "はなぞむかしの かににほひける",
-
-      "sakusya": "紀貫之"
+      "sakusya": "紀貫之",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/3/32/Hyakuninisshu_035.jpg",
+      "commentary": "さて、あなたの心は昔のままであるかどうか分かりません。しかし馴染み深いこの里では、花は昔のままの香りで美しく咲きにおっているではありませんか。(あなたの心も昔のままですよね)"
     },
-
     {
       "id": 36,
-
       "kami": "夏の夜は まだ宵ながら あけぬるを",
-
       "simo": "雲のいづこに 月やどるらむ",
-
       "kami_kana": "なつのよは まだよひながら あけぬるを",
-
       "simo_kana": "くものいづこに つきやどるらむ",
-
-      "sakusya": "清原深養父"
+      "sakusya": "清原深養父",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/f/f7/Hyakuninisshu_036.jpg",
+      "commentary": "夏の夜は、まだ宵のうちだと思っているのに明けてしまったが、(こんなにも早く夜明けが来れば、月はまだ空に残っているだろうが) いったい月は雲のどの辺りに宿をとっているのだろうか｡"
     },
-
     {
       "id": 37,
-
       "kami": "白露に 風の吹きしく 秋の野は",
-
       "simo": "つらぬきとめぬ 玉ぞ散りける",
-
       "kami_kana": "しらつゆに かぜのふきしく あきののは",
-
       "simo_kana": "つらぬきとめぬ たまぞちりける",
-
-      "sakusya": "文屋朝康"
+      "sakusya": "文屋朝康",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Hyakuninisshu_037.jpg",
+      "commentary": "(草葉の上に落ちた) 白露に風がしきりに吹きつけている秋の野のさまは､まるで糸に通してとめてない玉が、美しく散り乱れているようではないか｡"
     },
-
     {
       "id": 38,
-
       "kami": "忘らるる 身をば思はず ちかひてし",
-
       "simo": "人の命の 惜しくもあるかな",
-
       "kami_kana": "わすらるる みをばおもはず ちかひてし",
-
       "simo_kana": "ひとのいのちの をしくもあるかな",
-
-      "sakusya": "右近"
+      "sakusya": "右近",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/a/a5/Hyakuninisshu_038.jpg",
+      "commentary": "あなたに忘れられる我が身のことは何ほどのこともありませんが､ただ神にかけて (わたしをいつまでも愛してくださると) 誓ったあなたの命が､はたして神罰を受けはしないかと、借しく思われてなりません。"
     },
-
     {
       "id": 39,
-
       "kami": "浅茅生の 小野の篠原 しのぶれど",
-
       "simo": "あまりてなどか 人の恋しき",
-
       "kami_kana": "あさぢふの をののしのはら しのぶれど",
-
       "simo_kana": "あまりてなどか ひとのこひしき",
-
-      "sakusya": "参議等"
+      "sakusya": "参議等",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/7/7b/Hyakuninisshu_039.jpg",
+      "commentary": "浅茅の生えた寂しく忍ぶ小野の篠原ではありませんが､あなたへの思いを忍んではいますが､もう忍びきることは出来ません。どうしてこのようにあなたが恋しいのでしょうか｡"
     },
-
     {
       "id": 40,
-
       "kami": "しのぶれど 色に出でにけり 我が恋は",
-
       "simo": "物や思ふと 人の問ふまで",
-
       "kami_kana": "しのぶれど いろにいでにけり わがこひは",
-
       "simo_kana": "ものやおもふと ひとのとふまで",
-
-      "sakusya": "平兼盛"
+      "sakusya": "平兼盛",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/7/7b/Hyakuninisshu_040.jpg",
+      "commentary": "人に知られまいと恋しい思いを隠していたけれど、､とうとう隠し切れずに顔色に出てしまったことだ｡何か物思いをしているのではと､人が尋ねるほどまでに。"
     },
-
     {
       "id": 41,
-
       "kami": "恋すてふ 我が名はまだき 立ちにけり",
-
       "simo": "人しれずこそ 思ひそめしか",
-
       "kami_kana": "こひすてふ わがなはまだき たちにけり",
-
       "simo_kana": "ひとしれずこそ おもひそめしか",
-
-      "sakusya": "壬生忠見"
+      "sakusya": "壬生忠見",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/6/61/Hyakuninisshu_041.jpg",
+      "commentary": "わたしが恋をしているという噂が、もう世間の人たちの間には広まってしまったようだ。人には知られないよう、密かに思いはじめたばかりなのに。"
     },
-
     {
       "id": 42,
-
       "kami": "ちぎりきな かたみに袖を しぼりつつ",
-
       "simo": "末の松山 波こさじとは",
-
       "kami_kana": "ちぎりきな かたみにそでを しぼりつつ",
-
       "simo_kana": "すゑのまつやま なみこさじとは",
-
-      "sakusya": "清原元輔"
+      "sakusya": "清原元輔",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/5/54/Hyakuninisshu_042.jpg",
+      "commentary": "かたく約束を交わしましたね｡互いに涙で濡れた袖をしぼりながら､波があの末の松山を決して越すことがないように､二人の仲も決して変わることはありますまいと。"
     },
-
     {
       "id": 43,
-
       "kami": "あひみての のちの心に くらぶれば",
-
       "simo": "昔は物を 思はざりけり",
-
       "kami_kana": "あひみての のちのこころに くらぶれば",
-
       "simo_kana": "むかしはものを おもはざりけり",
-
-      "sakusya": "権中納言敦忠"
+      "sakusya": "権中納言敦忠",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/2/2a/Hyakuninisshu_043.jpg",
+      "commentary": "このようにあなたに逢ってからの今の苦しい恋心にくらべると､会いたいと思っていた昔の恋心の苦しみなどは、何も物思いなどしなかったも同じようなものです。"
     },
-
     {
       "id": 44,
-
       "kami": "あふことの たえてしなくば なかなかに",
-
       "simo": "人をも身をも 恨みざらまし",
-
       "kami_kana": "あふことの たえてしなくば なかなかに",
-
       "simo_kana": "ひとをもみをも うらみざらまし",
-
-      "sakusya": "中納言朝忠"
+      "sakusya": "中納言朝忠",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Hyakuninisshu_044.jpg",
+      "commentary": "あなたと会うことが一度もなかったのならば、むしろあなたのつれなさも、わたしの身の不幸も、こんなに恨むことはなかったでしょうに。(あなたに会ってしまったばっかりに、この苦しみは深まるばかりです)"
     },
-
     {
       "id": 45,
-
       "kami": "あはれとも いふべき人は 思ほえで",
-
       "simo": "身のいたづらに なりぬべきかな",
-
       "kami_kana": "あはれとも いふべきひとは おもほえで",
-
       "simo_kana": "みのいたづらに なりぬべきかな",
-
-      "sakusya": "謙徳公"
+      "sakusya": "謙徳公",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/4/40/Hyakuninisshu_045.jpg",
+      "commentary": "(あなたに見捨てられた) わたしを哀れだと同情を向けてくれそうな人も、今はいように思えません。(このままあなたを恋しながら) 自分の身がむなしく消えていく日を、どうすることもできず、ただ待っているわたしなのです。"
     },
-
     {
       "id": 46,
-
       "kami": "由良のとを 渡る舟人 かぢをたえ",
-
       "simo": "ゆくへも知らぬ 恋の道かな",
-
       "kami_kana": "ゆらのとを わたるふなびと かぢをたえ",
-
       "simo_kana": "ゆくへもしらぬ こひのみちかな",
-
-      "sakusya": "曽禰好忠"
+      "sakusya": "曽禰好忠",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/5/5a/Hyakuninisshu_046.jpg",
+      "commentary": "由良の海峡を渡る船人が、かいをなくして、行く先も決まらぬままに波間に漂っているように、わたしたちの恋の行方も、どこへ漂っていくのか思い迷っているものだ。"
     },
-
     {
       "id": 47,
-
       "kami": "八重むぐら しげれる宿の さびしきに",
-
       "simo": "人こそ見えね 秋は来にけり",
-
       "kami_kana": "やへむぐら しげれるやどの さびしきに",
-
       "simo_kana": "ひとこそみえね あきはきにけり",
-
-      "sakusya": "恵慶法師"
+      "sakusya": "恵慶法師",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/0f/Hyakuninisshu_047.jpg",
+      "commentary": "このような、幾重にも雑草の生い茂った宿は荒れて寂しく、人は誰も訪ねてはこないが、ここにも秋だけは訪れるようだ。"
     },
-
     {
       "id": 48,
-
       "kami": "風をいたみ 岩うつ波の おのれのみ",
-
       "simo": "くだけて物を 思ふころかな",
-
       "kami_kana": "かぜをいたみ いはうつなみの おのれのみ",
-
       "simo_kana": "くだけてものを おもふころかな",
-
-      "sakusya": "源重之"
+      "sakusya": "源重之",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/97/Hyakuninisshu_048.jpg",
+      "commentary": "風がとても強いので、岩に打ちつける波が、自分ばかりが砕け散ってしまうように、(あなたがとてもつれないので) わたしの心は (恋に悩み) 砕け散るばかりのこの頃です。"
     },
-
     {
       "id": 49,
-
       "kami": "みかきもり 衛士のたく火の 夜はもえ",
-
       "simo": "昼は消えつつ 物をこそ思へ",
-
       "kami_kana": "みかきもり ゑじのたくひの よるはもえ",
-
       "simo_kana": "ひるはきえつつ ものをこそおもへ",
-
-      "sakusya": "大中臣能宣朝臣"
+      "sakusya": "大中臣能宣朝臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/b/b8/Hyakuninisshu_049.jpg",
+      "commentary": "禁中の御垣を守る衛士のかがり火は、夜は赤々と燃えているが、昼間は消えるようになって、まるで、(夜は情熱に燃え、昼間は思い悩んでいる) わたしの恋の苦しみのようではないか。"
     },
-
     {
       "id": 50,
-
       "kami": "君がため 惜しからざりし いのちさへ",
-
       "simo": "長くもがなと 思ひけるかな",
-
       "kami_kana": "きみがため をしからざりし いのちさへ",
-
       "simo_kana": "ながくもがなと おもひけるかな",
-
-      "sakusya": "藤原義孝"
+      "sakusya": "藤原義孝",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/8/85/Hyakuninisshu_050.jpg",
+      "commentary": "あなたに会うためなら惜しいとは思わなかった私の命ですが、こうしてあなたと会うことができた今は､いつまでも生きていたいと思っています。"
     },
-
     {
       "id": 51,
-
       "kami": "かくとだに えやはいぶきの さしも草",
-
       "simo": "さしもしらじな もゆる思ひを",
-
       "kami_kana": "かくとだに えやはいぶきの さしもぐさ",
-
       "simo_kana": "さしもしらじな もゆるおもひを",
-
-      "sakusya": "藤原実方朝臣"
+      "sakusya": "藤原実方朝臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/4/48/Hyakuninisshu_051.jpg",
+      "commentary": "これほどまで、あなたを思っているということさえ打ち明けることができずにいるのですから､ましてや伊吹山のさしも草が燃えるように、私の思いもこんなに激しく燃えているとは、あなたは知らないことでしょう。"
     },
-
     {
       "id": 52,
-
       "kami": "あけぬれば 暮るるものとは 知りながら",
-
       "simo": "なほうらめしき 朝ぼらけかな",
-
       "kami_kana": "あけぬれば くるるものとは しりながら",
-
       "simo_kana": "なほうらめしき あさぼらけかな",
-
-      "sakusya": "藤原道信朝臣"
+      "sakusya": "藤原道信朝臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/08/Hyakuninisshu_052.jpg",
+      "commentary": "夜が明ければ、やがてはまた日が暮れてあなたに会えるものだと分かってはいても、やはりあなたと別れる夜明けは、恨めしく思われるものです。"
     },
-
     {
       "id": 53,
-
       "kami": "なげきつつ ひとりぬる夜の あくるまは",
-
       "simo": "いかに久しき ものとかはしる",
-
       "kami_kana": "なげきつつ ひとりぬるよの あくるまは",
-
       "simo_kana": "いかにひさしき ものとかはしる",
-
-      "sakusya": "右大将道綱母"
+      "sakusya": "右大将道綱母",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/02/Hyakuninisshu_053.jpg",
+      "commentary": "(あなたが来てくださらないことを) 嘆き哀しみながらひとりで夜をすごす私にとって、夜が明けるのがどれほど長く感じられるものか、あなたはいったいご存じなのでしょうか。"
     },
 
     {
       "id": 54,
-
       "kami": "忘れじの ゆく末までは かたければ",
-
       "simo": "今日をかぎりの いのちともがな",
-
       "kami_kana": "わすれじの ゆくすゑまでは かたければ",
-
       "simo_kana": "けふをかぎりの いのちともがな",
-
-      "sakusya": "儀同三司母"
+      "sakusya": "儀同三司母",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Hyakuninisshu_054.jpg",
+      "commentary": "いつまでも忘れまいとすることは、遠い将来まではとても難しいものですから､(あなたの心変わりを見るよりも早く) いっそのこと、今日を最後に私の命が終わって欲しいものです。"
     },
-
     {
       "id": 55,
-
       "kami": "滝の音は たえて久しく なりぬれど",
-
       "simo": "名こそ流れて なほ聞こえけれ",
-
       "kami_kana": "たきのおとは たえてひさしく なりぬれど",
-
       "simo_kana": "なこそながれて なほきこえけれ",
-
-      "sakusya": "大納言公任"
+      "sakusya": "大納言公任",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/3/31/Hyakuninisshu_055.jpg",
+      "commentary": "水の流れが絶えて滝音が聞こえなくなってから、もう長い月日が過ぎてしまったが、(見事な滝であったと) その名は今も伝えられ、よく世間にも知れ渡っていることだ。"
     },
-
     {
       "id": 56,
-
       "kami": "あらざらむ この世のほかの 思ひ出に",
-
       "simo": "いまひとたびの あふこともがな",
-
       "kami_kana": "あらざらむ このよのほかの おもひでに",
-
       "simo_kana": "いまひとたびの あふこともがな",
-
-      "sakusya": "和泉式部"
+      "sakusya": "和泉式部",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/99/Hyakuninisshu_056.jpg",
+      "commentary": "私はもうすぐ死んでしまうことでしょうが、私のあの世への思い出になるように、せめてもう一度なりともあなたにお会いしたいのです。"
     },
-
     {
       "id": 57,
-
       "kami": "めぐりあひて 見しやそれとも わかぬまに",
-
       "simo": "雲がくれにし 夜半の月かな",
-
       "kami_kana": "めぐりあひて みしやそれとも わかぬまに",
-
       "simo_kana": "くもがくれにし よはのつきかな",
-
-      "sakusya": "紫式部"
+      "sakusya": "紫式部",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/1/13/Hyakuninisshu_057.jpg",
+      "commentary": "久しぶりにめぐり会ったのに、それがあなたかどうかも分からない間に帰ってしまうなど、まるで (早くも) 雲に 隠れてしまった夜中の月のようではありませんか。"
     },
-
     {
       "id": 58,
-
       "kami": "ありま山 ゐなの笹原 風吹けば",
-
       "simo": "いでそよ人を 忘れやはする",
-
       "kami_kana": "ありまやま ゐなのささはら かぜふけば",
-
       "simo_kana": "いでそよひとを わすれやはする",
-
-      "sakusya": "大弐三位"
+      "sakusya": "大弐三位",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/7/71/Hyakuninisshu_058.jpg",
+      "commentary": "有馬山のふもとにある猪名の笹原に風が吹くと、笹の葉がそよそよと鳴りますが、そうです、その音のように、 どうしてあなたを忘れたりするも のでしょうか。"
     },
-
     {
       "id": 59,
-
       "kami": "やすらはで 寝なましものを さ夜ふけて",
-
       "simo": "かたぶくまでの 月を見しかな",
-
       "kami_kana": "やすらはで ねなましものを さよふけて",
-
       "simo_kana": "かたぶくまでの つきをみしかな",
-
-      "sakusya": "赤染衛門"
+      "sakusya": "赤染衛門",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/0f/Hyakuninisshu_059.jpg",
+      "commentary": "(あなたが来ないと知っていたら) さっさと寝てしまえばよかったものを､(あなたの約束を信じて待っていたら) とうとう明け方の月が西に傾くまで眺めてしまいました。"
     },
-
     {
       "id": 60,
-
       "kami": "大江山 いく野の道の 遠ければ",
-
       "simo": "まだふみもみず 天の橋立",
-
       "kami_kana": "おほえやま いくののみちの とほければ",
-
       "simo_kana": "まだふみもみず あまのはしだて",
-
-      "sakusya": "小式部内侍"
+      "sakusya": "小式部内侍",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/a/ae/Hyakuninisshu_060.jpg",
+      "commentary": "(母のいる丹後の国へは) 大江山を越え、生野を通って行かなければならない遠い道なので、まだ天橋立へは行ったことがありません。 (ですから、そこに住む母からの手紙など、まだ見ようはずもありません)"
     },
-
     {
       "id": 61,
-
       "kami": "いにしへの 奈良の都の 八重桜",
-
       "simo": "けふ九重に 匂ひぬるかな",
-
       "kami_kana": "いにしへの ならのみやこの やへざくら",
-
       "simo_kana": "けふここのへに にほひぬるかな",
-
-      "sakusya": "伊勢大輔"
+      "sakusya": "伊勢大輔",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/f/fb/Hyakuninisshu_061.jpg",
+      "commentary": "昔、奈良の都で咲き誇っていた八重桜が、今日はこの宮中で、いっそう美しく咲き誇っているではありませんか。"
     },
-
     {
       "id": 62,
-
       "kami": "夜をこめて 鳥のそらねは はかるとも",
-
       "simo": "よに逢坂の 関はゆるさじ",
-
       "kami_kana": "よをこめて とりのそらねは はかるとも",
-
       "simo_kana": "よにあふさかの せきはゆるさじ",
-
-      "sakusya": "清少納言"
+      "sakusya": "清少納言",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/d/d7/Hyakuninisshu_062.jpg",
+      "commentary": "夜の明けないうちに、鶏の鳴き声を真似て夜明けたとだまそうとしても、(あの中国の函谷関ならいざ知らず、あなたとわたしの間にある) この逢坂(おおさか）の関は、決して開くことはありません。"
     },
-
     {
       "id": 63,
-
       "kami": "いまはただ 思ひ絶えなむ とばかりを",
-
       "simo": "人づてならで 言ふよしもがな",
-
       "kami_kana": "いまはただ おもひたえなむ とばかりを",
-
       "simo_kana": "ひとづてならで いふよしもがな",
-
-      "sakusya": "左京大夫道雅"
+      "sakusya": "左京大夫道雅",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/b/be/Hyakuninisshu_063.jpg",
+      "commentary": "今はもう、あなたのことはきっぱりと思い切ってしまおうと決めましたが、そのことだけを人づてでなく、直接 あなたに伝える方法があればいいのですが。"
     },
-
     {
       "id": 64,
-
       "kami": "朝ぼらけ 宇治の川霧 絶え絶えに",
-
       "simo": "あらはれわたる 瀬々の網代木",
-
       "kami_kana": "あさぼらけ うぢのかはぎり たえだえに",
-
       "simo_kana": "あらはれわたる せぜのあじろぎ",
-
-      "sakusya": "権中納言定頼"
+      "sakusya": "権中納言定頼",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/2/25/Hyakuninisshu_064.jpg",
+      "commentary": "ほのぼのと夜が明けるころ、宇治川に立ちこめた川霧が切れ切れに晴れてきて、瀬ごとに立っている網代木が次第にあらわれてくる景色は、何ともおもしろいものではないか。"
     },
-
     {
       "id": 65,
-
       "kami": "うらみわび ほさぬ袖だに あるものを",
-
       "simo": "恋にくちなむ 名こそをしけれ",
-
       "kami_kana": "うらみわび ほさぬそでだに あるものを",
-
       "simo_kana": "こひにくちなむ なこそをしけれ",
-
-      "sakusya": "相模"
+      "sakusya": "相模",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/5/51/Hyakuninisshu_065.jpg",
+      "commentary": "あなたの冷たさを恨み、流す涙でかわくひまさえもない袖でさえ口惜いのに、こ の恋のために、(つまらぬ噂で) わたしの名が落ちてしまうのは、なんとも口惜しいことです。"
     },
-
     {
       "id": 66,
-
       "kami": "もろともに あはれと思へ 山桜",
-
       "simo": "花よりほかに 知る人もなし",
-
       "kami_kana": "もろともに あはれとおもへ やまざくら",
-
       "simo_kana": "はなよりほかに しるひともなし",
-
-      "sakusya": "前大僧正行尊"
+      "sakusya": "前大僧正行尊",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/2/26/Hyakuninisshu_066.jpg",
+      "commentary": "私がおまえを愛しむように、おまえも私を愛しいと 思ってくれよ、山桜。 (こんな山奥では) おまえの他には私を知る人は誰もいないのだから。"
     },
-
     {
       "id": 67,
-
       "kami": "春の夜の 夢ばかりなる 手枕に",
-
       "simo": "かひなくたたむ 名こそをしけれ",
-
       "kami_kana": "はるのよの ゆめばかりなる たまくらに",
-
       "simo_kana": "かひなくたたむ なこそをしけれ",
-
-      "sakusya": "周防内侍"
+      "sakusya": "周防内侍",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/93/Hyakuninisshu_067.jpg",
+      "commentary": "春の夜のはかない夢のように、(僅かばかりの時間でも) あなたの腕を枕にしたりして、それでつまらない噂が立つことにでもなれば、それがまことに残念なのです。"
     },
-
     {
       "id": 68,
-
       "kami": "心にも あらでうき世に ながらへば",
-
       "simo": "恋しかるべき 夜半の月かな",
-
       "kami_kana": "こころにも あらでうきよに ながらへば",
-
       "simo_kana": "こひしかるべき よはのつきかな",
-
-      "sakusya": "三条院"
+      "sakusya": "三条院",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/0e/Hyakuninisshu_068.jpg",
+      "commentary": "(もはやこの世に望みもないが) 心にもなく、このつらい浮世を生きながらえたなら、さぞかしこの宮中で見た夜の月が恋しく思 い出されることであろうなぁ。"
     },
-
     {
       "id": 69,
-
       "kami": "あらし吹く み室の山の もみぢばは",
-
       "simo": "竜田の川の 錦なりけり",
-
       "kami_kana": "あらしふく みむろのやまの もみぢばは",
-
       "simo_kana": "たつたのかはの にしきなりけり",
-
-      "sakusya": "能因法師"
+      "sakusya": "能因法師",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/d/d9/Hyakuninisshu_069.jpg",
+      "commentary": "嵐が吹き散らした三室の山の紅葉の葉が、龍田川 に一面に散っているが、まるで錦の織物のように美しいではないか。"
     },
-
     {
       "id": 70,
-
       "kami": "さびしさに 宿を立ち出でて ながむれば",
-
       "simo": "いづくもおなじ 秋の夕ぐれ",
-
       "kami_kana": "さびしさに やどをたちいでて ながむれば",
-
       "simo_kana": "いづくもおなじ あきのゆふぐれ",
-
-      "sakusya": "良選法師"
+      "sakusya": "良選法師",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/7/75/Hyakuninisshu_070.jpg",
+      "commentary": "寂しくて家を出てあたりを眺めてはみたが、この秋の夕暮れの寂しさはどこも同じであるものだ。"
     },
-
     {
       "id": 71,
-
       "kami": "夕されば 門田の稲葉 おとづれて",
-
       "simo": "蘆のまろやに 秋風ぞ吹く",
-
       "kami_kana": "ゆふされば かどたのいなば おとづれて",
-
       "simo_kana": "あしのまろやに あきかぜぞふく",
-
-      "sakusya": "大納言経信"
+      "sakusya": "大納言経信",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Hyakuninisshu_071.jpg",
+      "commentary": "夕方になると、家の前にある田の稲葉を音をたてて、 葦葺きのそまつな小屋に秋風が吹き訪れることよ。"
     },
-
     {
       "id": 72,
-
       "kami": "音に聞く 高師の浜の あだ波は",
-
       "simo": "かけじや袖の ぬれもこそすれ",
-
       "kami_kana": "おとにきく たかしのはまの あだなみは",
-
       "simo_kana": "かけじやそでの ぬれもこそすれ",
-
-      "sakusya": "祐子内親王家紀伊"
+      "sakusya": "祐子内親王家紀伊",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/2/2b/Hyakuninisshu_072.jpg",
+      "commentary": "評判の高い高師の浜の寄せてはかえす波で、 袖を濡らさないようにしましょう。(移り気だと、噂の高いあなたに思いをかけて、わたしの袖を濡らさないように)"
     },
-
     {
       "id": 73,
-
       "kami": "高砂の をのへのさくら さきにけり",
-
       "simo": "とやまのかすみ たたずもあらなむ",
-
       "kami_kana": "たかさごの をのへのさくら さきにけり",
-
       "simo_kana": "とやまのかすみ たたずもあらなむ",
-
-      "sakusya": "前権中納言匡房"
+      "sakusya": "前権中納言匡房",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/a/a2/Hyakuninisshu_073.jpg",
+      "commentary": "高砂の峰にも桜の花が咲いたようだから､(その桜を見たいので) 手前の山の霞よ､どうか立たないようにしてくれないか。"
     },
-
     {
       "id": 74,
-
       "kami": "憂かりける 人を初瀬の 山おろしよ",
-
       "simo": "はげしかれとは 祈らぬものを",
-
       "kami_kana": "うかりける ひとをはつせの やまおろしよ",
-
       "simo_kana": "はげしかれとは いのらぬものを",
-
-      "sakusya": "源俊頼朝臣"
+      "sakusya": "源俊頼朝臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/00/Hyakuninisshu_074.jpg",
+      "commentary": "私に冷たかった人の心が変わるようにと、初瀬の観音さまにお祈りしたのだが、初瀬の山おろしよ、そのようにあの人の冷たさがいっそう激しくなれとは祈らなかったではないか…"
     },
-
     {
       "id": 75,
-
       "kami": "ちぎりおきし させもが露を いのちにて",
-
       "simo": "あはれ今年の 秋もいぬめり",
-
       "kami_kana": "ちぎりおきし させもがつゆを いのちにて",
-
       "simo_kana": "あはれことしの あきもいぬめり",
-
-      "sakusya": "藤原基俊"
+      "sakusya": "藤原基俊",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/5/55/Hyakuninisshu_075.jpg",
+      "commentary": "あなたが約束してくださった、させも草についた恵みの露のような言葉を、命のように恃んでおりましたが、それもむなしく、今年の秋もすぎてしまうようです。"
     },
-
     {
       "id": 76,
-
       "kami": "わたの原 こぎいでてみれば 久方の",
-
       "simo": "雲いにまがふ 沖つ白波",
-
       "kami_kana": "わたのはら こぎいでてみれば ひさかたの",
-
       "simo_kana": "くもゐにまがふ おきつしらなみ",
-
-      "sakusya": "法性寺入道前関白太政大臣"
+      "sakusya": "法性寺入道前関白太政大臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/d/da/Hyakuninisshu_076.jpg",
+      "commentary": "大海原に船を漕ぎ出してみると、遠くの方では、雲と見わけがつかないような白波が立っているのが見える。(まことにおもしろい眺めではないか)"
     },
-
     {
       "id": 77,
-
       "kami": "瀬をはやみ 岩にせかるる 滝川の",
-
       "simo": "われても末に あはむとぞ思ふ",
-
       "kami_kana": "せをはやみ いはにせかるる たきがはの",
-
       "simo_kana": "われてもすゑに あはむとぞおもふ",
-
-      "sakusya": "崇徳院"
+      "sakusya": "崇徳院",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/e/e2/Hyakuninisshu_077.jpg",
+      "commentary": "川の流れが早いので、岩にせき止められた急流が時にはふたつに分かれても、またひとつになるように、わたし達の間も、(今はたとえ人にせき止められていようとも)後にはきっと結ばれるものと思っています。"
     },
-
     {
       "id": 78,
-
       "kami": "淡路島 かよふ千鳥の 鳴く声に",
-
       "simo": "幾夜ねざめぬ 須磨の関守",
-
       "kami_kana": "あはぢしま かよふちどりの なくこゑに",
-
       "simo_kana": "いくよねざめぬ すまのせきもり",
-
-      "sakusya": "源兼昌"
+      "sakusya": "源兼昌",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/b/bf/Hyakuninisshu_078.jpg",
+      "commentary": "淡路島から通ってくる千鳥の鳴き声に、幾晩目を覚ましたことであろうか、この須磨の関の関守は…。"
     },
-
     {
       "id": 79,
-
       "kami": "秋風に たなびく雲の たえ間より",
-
       "simo": "もれいづる月の 影のさやけさ",
-
       "kami_kana": "あきかぜに たなびくくもの たえまより",
-
       "simo_kana": "もれいづるつきの かげのさやけさ",
-
-      "sakusya": "左京大夫顕輔"
+      "sakusya": "左京大夫顕輔",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/1/1d/Hyakuninisshu_079.jpg",
+      "commentary": "秋風に吹かれてたなびいている雲の切れ間から、もれでてくる月の光は、なんと清らかで澄みきっていることであろう。"
     },
-
     {
       "id": 80,
-
       "kami": "長からむ 心もしらず 黒髪の",
-
       "simo": "みだれてけさは 物をこそ思へ",
-
       "kami_kana": "ながからむ こころもしらず くろかみの",
-
       "simo_kana": "みだれてけさは ものをこそおもへ",
-
-      "sakusya": "待賢門院堀河"
+      "sakusya": "待賢門院堀河",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Hyakuninisshu_080.jpg",
+      "commentary": "あなたの心は末永くまで決して変わらないかどうか、わたしの黒髪が乱れているように、わたしの心も乱れて、今朝は物思いに沈んでおります。"
     },
-
     {
       "id": 81,
-
       "kami": "ほととぎす 鳴きつる方を ながむれば",
-
       "simo": "ただありあけの 月ぞ残れる",
-
       "kami_kana": "ほととぎす なきつるかたを ながむれば",
-
       "simo_kana": "ただありあけの つきぞのこれる",
-
-      "sakusya": "後徳大寺左大臣"
+      "sakusya": "後徳大寺左大臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/d/da/Hyakuninisshu_081.jpg",
+      "commentary": "ほととぎすの鳴き声が聞こえたので、その方に目をやってみたが、(その姿はもう見えず) 空には有明の月が残っているばかりであった。"
     },
-
     {
       "id": 82,
-
       "kami": "思ひわび さてもいのちは あるものを",
-
       "simo": "憂きにたへぬは 涙なりけり",
-
       "kami_kana": "おもひわび さてもいのちは あるものを",
-
       "simo_kana": "うきにたへぬは なみだなりけり",
-
-      "sakusya": "道因法師"
+      "sakusya": "道因法師",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Hyakuninisshu_082.jpg",
+      "commentary": "つれない人のことを思い、これほど悩み苦しんでいても、命だけはどうにかあるものの、この辛さに耐えかねるのは (次から次へと流れる) 涙であることだ。"
     },
-
     {
       "id": 83,
-
       "kami": "世の中よ 道こそなけれ 思ひ入る",
-
       "simo": "山の奥にも 鹿ぞ鳴くなる",
-
       "kami_kana": "よのなかよ みちこそなけれ おもひいる",
-
       "simo_kana": "やまのおくにも しかぞなくなる",
-
-      "sakusya": "皇太后宮大夫俊成"
+      "sakusya": "皇太后宮大夫俊成",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/b/be/Hyakuninisshu_083.jpg",
+      "commentary": "世の中というものは逃れる道がないものだ。(この山奥に逃れてきたものの) この山奥でも、(辛いことがあったのか) 鹿が鳴いているではないか。"
     },
-
     {
       "id": 84,
-
       "kami": "ながらへば またこのごろや しのばれむ",
-
       "simo": "憂しと見し世ぞ 今は恋しき",
-
       "kami_kana": "ながらへば またこのごろや しのばれむ",
-
       "simo_kana": "うしとみしよぞ いまはこひしき",
-
-      "sakusya": "藤原清輔朝臣"
+      "sakusya": "藤原清輔朝臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/05/Hyakuninisshu_084.jpg",
+      "commentary": "この先生きながらえるならば、今のつらいことなども懐かしく思い出されるのだろうか。昔は辛いと思っていたことが、今では懐かしく思い出されるのだから。"
     },
-
     {
       "id": 85,
-
       "kami": "夜もすがら 物思ふころは 明けやらで",
-
       "simo": "閨のひまさへ つれなかりけり",
-
       "kami_kana": "よもすがら ものおもふころは あけやらで",
-
       "simo_kana": "ねやのひまさへ つれなかりけり",
-
-      "sakusya": "俊恵法師"
+      "sakusya": "俊恵法師",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/06/Hyakuninisshu_085.jpg",
+      "commentary": "一晩中恋しい人を思って悩んでいるので、早く夜が明けたらよいと思っているのですが、なかなか夜は明けず、寝室の隙間さえもわたしにつれなく感じられます。"
     },
-
     {
       "id": 86,
-
       "kami": "なげけとて 月やは物を 思はする",
-
       "simo": "かこち顔なる わが涙かな",
-
       "kami_kana": "なげけとて つきやはものを おもはする",
-
       "simo_kana": "かこちがほなる わがなみだかな",
-
-      "sakusya": "西行法師"
+      "sakusya": "西行法師",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/6/61/Hyakuninisshu_086.jpg",
+      "commentary": "嘆き悲しめと月はわたしに物思いをさせるのだろうか。 いや、そうではあるまい。本当は恋の悩みの所為なのに、まるで月の仕業であるかのように流れるわたしの涙ではないか。"
     },
-
     {
       "id": 87,
-
       "kami": "村雨の 露もまだひぬ まきの葉に",
-
       "simo": "霧たちのぼる 秋の夕ぐれ",
-
       "kami_kana": "むらさめの つゆもまだひぬ まきのはに",
-
       "simo_kana": "きりたちのぼる あきのゆふぐれ",
-
-      "sakusya": "寂蓮法師"
+      "sakusya": "寂蓮法師",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Hyakuninisshu_087.jpg",
+      "commentary": "あわただしく通り過ぎたにわか雨が残した露もまだ乾ききらないのに、槇の葉にはもう霧が立ちのぼっていく秋の夕暮れである。(なんとももの寂しいことではないか)"
     },
-
     {
       "id": 88,
-
       "kami": "難波江の 蘆のかりねの ひとよゆゑ",
-
       "simo": "みをつくしてや 恋ひわたるべき",
-
       "kami_kana": "なにはえの あしのかりねの ひとよゆゑ",
-
       "simo_kana": "みをつくしてや こひわたるべき",
-
-      "sakusya": "皇嘉門院別当"
+      "sakusya": "皇嘉門院別当",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/4/4c/Hyakuninisshu_088.jpg",
+      "commentary": "難波の入江に生えている、芦を刈った根のひと節ほどの短いひと夜でしたが、わたしはこれからこの身をつくして、あなたに恋しなければならないのでしょうか。"
     },
-
     {
       "id": 89,
-
       "kami": "玉の緒よ たえなばたえね ながらへば",
-
       "simo": "忍ぶることの 弱りもぞする",
-
       "kami_kana": "たまのをよ たえなばたえね ながらへば",
-
       "simo_kana": "しのぶることの よわりもぞする",
-
-      "sakusya": "式子内親王"
+      "sakusya": "式子内親王",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/b/b1/Hyakuninisshu_089.jpg",
+      "commentary": "わたしの命よ、絶えることなら早く絶えてほしい。このまま生きながらえていると、耐え忍んでいるわたしの心も弱くなってしまい、 秘めている思いが人に知られてしまうことになろうから。"
     },
-
     {
       "id": 90,
-
       "kami": "見せばやな 雄島のあまの 袖だにも",
-
       "simo": "ぬれにぞぬれし 色はかはらず",
-
       "kami_kana": "みせばやな をじまのあまの そでだにも",
-
       "simo_kana": "ぬれにぞぬれし いろはかはらず",
-
-      "sakusya": "殷富門院大輔"
+      "sakusya": "殷富門院大輔",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/8/82/Hyakuninisshu_090.jpg",
+      "commentary": "(涙で色が変わってしまった) わたしの袖をあなたにお見せしたいものです。あの雄島の漁夫の袖でさえ、毎日波しぶきに濡れていても、少しも変わらないものなのに。"
     },
-
     {
       "id": 91,
-
       "kami": "きりぎりす 鳴くや霜夜の さむしろに",
-
       "simo": "衣かたしき ひとりかも寝む",
-
       "kami_kana": "きりぎりす なくやしもよの さむしろに",
-
       "simo_kana": "ころもかたしき ひとりかもねむ",
-
-      "sakusya": "後京極摂政前太政大臣"
+      "sakusya": "後京極摂政前太政大臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/c/c3/Hyakuninisshu_091.jpg",
+      "commentary": "こおろぎがしきりに鳴いている霜の降るこの寒い夜に、むしろの上に衣の片袖を敷いて、わたしはたったひとり寂しく寝るのだろうか。"
     },
-
     {
       "id": 92,
-
       "kami": "わが袖は 潮干にみえぬ 沖の石の",
-
       "simo": "人こそしらね かわくまもなし",
-
       "kami_kana": "わがそでは しほひにみえぬ おきのいしの",
-
       "simo_kana": "ひとこそしらね かわくまもなし",
-
-      "sakusya": "二条院讃岐"
+      "sakusya": "二条院讃岐",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/d/d2/Hyakuninisshu_092.jpg",
+      "commentary": "わたしの袖は､潮が引いたときも水面に見えない沖にあるあの石のように､人は知らないでしょうが､(恋のために流す涙で) 乾くひまさえありません｡"
     },
-
     {
       "id": 93,
-
       "kami": "世の中は つねにもがもな なぎさこぐ",
-
       "simo": "あまの小舟の 綱手かなしも",
-
       "kami_kana": "よのなかは つねにもがもな なぎさこぐ",
-
       "simo_kana": "あまのをぶねの つなでかなしも",
-
-      "sakusya": "鎌倉右大臣"
+      "sakusya": "鎌倉右大臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Hyakuninisshu_093.jpg",
+      "commentary": "この世の中はいつまでも変わらないでいてほしいものだ。渚にそって漕いでいる、漁師の小船をひき綱で引いている風情はいいものだからなぁ…"
     },
-
     {
       "id": 94,
-
       "kami": "み吉野の 山の秋風 さ夜ふけて",
-
       "simo": "ふるさと寒く 衣うつなり",
-
       "kami_kana": "みよしのの やまのあきかぜ さよふけて",
-
       "simo_kana": "ふるさとさむく ころもうつなり",
-
-      "sakusya": "参議雅経"
+      "sakusya": "参議雅経",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Hyakuninisshu_094.jpg",
+      "commentary": "吉野の山の秋風に、夜もしだいに更けてきて、都があったこの里では、衣をうつ砧(きぬた)の音が寒々と身にしみてくることだ。"
     },
-
     {
       "id": 95,
-
       "kami": "おほけなく うき世の民に おほふかな",
-
       "simo": "わがたつ杣に 墨染の袖",
-
       "kami_kana": "おほけなく うきよのたみに おほふかな",
-
       "simo_kana": "わがたつそまに すみぞめのそで",
-
-      "sakusya": "前大僧正慈円"
+      "sakusya": "前大僧正慈円",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/a/a6/Hyakuninisshu_095.jpg",
+      "commentary": "身のほど知らずと言われるかもしれないが、(この悲しみに満ちた) 世の中の人々の上に、墨染の袖を被いかけよう。 (比叡山に出家したわたしが平穏を願って)"
     },
-
     {
       "id": 96,
-
       "kami": "花さそふ 嵐の庭の 雪ならで",
-
       "simo": "ふりゆくものは わが身なりけり",
-
       "kami_kana": "はなさそふ あらしのにはの ゆきならで",
-
       "simo_kana": "ふりゆくものは わがみなりけり",
-
-      "sakusya": "入道前太政大臣"
+      "sakusya": "入道前太政大臣",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/8/83/Hyakuninisshu_096.jpg",
+      "commentary": "(降っているのは) 嵐が庭に散らしている花吹雪ではなくて、降っているのは、実は歳をとっていくわが身なのだなぁ。"
     },
-
     {
       "id": 97,
-
       "kami": "こぬ人を まつほの浦の 夕なぎに",
-
       "simo": "焼くやもしほの 身もこがれつつ",
-
       "kami_kana": "こぬひとを まつほのうらの ゆふなぎに",
-
       "simo_kana": "やくやもしほの みもこがれつつ",
-
-      "sakusya": "権中納言定家"
+      "sakusya": "権中納言定家",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/c/cb/Hyakuninisshu_097.jpg",
+      "commentary": "どれほど待っても来ない人を待ち焦がれているのは､松帆の浦の夕凪のころに焼かれる藻塩のように、わが身も恋い焦がれて苦しいものだ。"
     },
-
     {
       "id": 98,
-
       "kami": "風そよぐ ならの小川の 夕ぐれは",
-
       "simo": "みそぎぞ夏の しるしなりける",
-
       "kami_kana": "かぜそよぐ ならのをがはの ゆふぐれは",
-
       "simo_kana": "みそぎぞなつの しるしなりける",
-
-      "sakusya": "従二位家隆"
+      "sakusya": "従二位家隆",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/0/00/Hyakuninisshu_098.jpg",
+      "commentary": "風がそよそよと楢(なら)の葉を吹きわたるこのならの小川の夕方は､(もうすっかりと秋のような気配だが) 川辺の禊祓（みそぎはらい）を見ると､まだ夏であるのだなぁ｡"
     },
-
     {
       "id": 99,
-
       "kami": "人もをし 人もうらめし あぢきなく",
-
       "simo": "世を思ふゆゑに 物思ふ身は",
-
       "kami_kana": "ひともをし ひともうらめし あぢきなく",
-
       "simo_kana": "よをおもふゆゑに ものおもふみは",
-
-      "sakusya": "後鳥羽院"
+      "sakusya": "後鳥羽院",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/8/8c/Hyakuninisshu_099.jpg",
+      "commentary": "人が愛しくも思われ､また恨めしく思われたりするのは、(歎かわしいことではあるが) この世をつまらなく思う、もの思いをする自分にあるのだなぁ。"
     },
-
     {
       "id": 100,
-
       "kami": "ももしきや ふるき軒ばの しのぶにも",
-
       "simo": "なほあまりある 昔なりけり",
-
       "kami_kana": "ももしきや ふるきのきばの しのぶにも",
-
       "simo_kana": "なほあまりある むかしなりけり",
-
-      "sakusya": "順徳院"
+      "sakusya": "順徳院",
+      "image": "http://upload.wikimedia.org/wikipedia/commons/f/ff/Hyakuninisshu_100.jpg",
+      "commentary": "宮中の古びた軒から下がっている忍ぶ草を見ていても、しのんでもしのびつくせないほど思い慕われてくるのは、古きよき時代のことだよ。"
     }
   ]
 }
