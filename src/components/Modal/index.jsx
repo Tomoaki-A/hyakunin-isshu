@@ -25,6 +25,7 @@ export const Modal = (props) => {
               <div className="text-lg font-bold mb-2">原文</div>
               <p className="pl-4 mb-4">
                 {answerKaruta.kami}
+                &nbsp;
                 {answerKaruta.simo}
               </p>
               <div className="text-lg font-bold mb-2">現代語訳</div>
