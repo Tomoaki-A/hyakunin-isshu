@@ -1,3 +1,8 @@
+## 百人一首App
+Vercel環境
+https://hyakunin-isshu.vercel.app/
+
+
 ## Next.js base プロジェクト
 
 
